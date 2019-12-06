@@ -1,0 +1,10 @@
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\bin\Debug\vcron_search.exe.config
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\bin\Debug\vcron_search.exe
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\bin\Debug\vcron_search.pdb
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\bin\Debug\VisualCron.dll
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\bin\Debug\VisualCronAPI.dll
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\obj\Debug\vcron_search.csprojAssemblyReference.cache
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\obj\Debug\vcron_search.csproj.CoreCompileInputs.cache
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\obj\Debug\vcron_search.csproj.CopyComplete
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\obj\Debug\vcron_search.exe
+C:\Users\alexander.korovitsky\source\repos\vcron_search\vcron_search\obj\Debug\vcron_search.pdb
